@@ -1,6 +1,11 @@
 # RTL Testing Input
 
-## Add GIF of expected behavior here!!!
+## Expected Behavior
+![Component Behavior Demo](./assets/demo.gif)
+
+This GIF demonstrates:
+- FocusInput component: Shows how clicking the button focuses the input field
+- ChangeInput component: Shows how typing updates the greeting message
 
 ### Helpful Tips to Get You Started
 
